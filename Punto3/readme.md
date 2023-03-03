@@ -23,3 +23,7 @@ Para hacer una busqueda se hace de la siguiente manera:
 result = tree.search('2023-03-07')
 print(result.product_name)
 ```
+
+
+## Reference
+Este codigo es de autoria del grupo de trabajo y amigos externos al grupo.
