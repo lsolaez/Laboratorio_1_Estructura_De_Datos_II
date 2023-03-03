@@ -1,5 +1,5 @@
 # Arboles de decisión
-![this is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fudoanalisisderiesgo.fandom.com%2Fes%2Fwiki%2F%25C3%2581rbol_de_decisiones&psig=AOvVaw1lpPKehWrbf2ueCSs6Sp4j&ust=1677945562961000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjC07yQwP0CFQAAAAAdAAAAABAv)
+![this is an image](https://github.com/lsolaez/Laboratorio_1_Estructura_De_Datos_II/blob/0b04ef781e38c309c19466c624246d5e99a49be5/Punto2/Arbol.jpg)
 
 Un árbol de decisión es un mapa de los posibles resultados de una serie de decisiones relacionadas. Permite que un individuo o una organización comparen posibles acciones entre sí según sus costos, probabilidades y beneficios. Se pueden usar para dirigir un intercambio de ideas informal o trazar un algoritmo que anticipe matemáticamente la mejor opción.
 
