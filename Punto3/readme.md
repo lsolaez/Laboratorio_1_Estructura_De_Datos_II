@@ -16,7 +16,7 @@ order1 = Order(1, 'Camisa', 'Ropa', '2023-03-05')
 tree.insert(order1.delivery_date, order1)
 ```
 
-Order() es una clase la cual solicita como parametros de entrada el numero de orden, el producto, el tipo de producto y la fecha de delivery.
+`Order()` es una clase la cual solicita como parametros de entrada el numero de orden, el producto, el tipo de producto y la fecha de delivery.
 
 Para hacer una busqueda se hace de la siguiente manera:
 ```
