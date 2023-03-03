@@ -10,9 +10,13 @@ Un árbol de decisión, por lo general, comienza con un único nodo y luego se r
 Los árboles de decisión siguen siendo populares por razones como las siguientes:
 
 -Son muy fáciles de entender
+
 -Pueden ser útiles con o sin datos fehacientes, y cualquier dato requiere una preparación mínima
+
 -Se pueden agregar nuevas opciones a los árboles existentes
+
 -Su valor al seleccionar la mejor de numerosas opciones
+
 -Se combinan fácilmente con otras herramientas de toma de decisiones
 
 Sin embargo, los árboles de decisión pueden volverse excesivamente complejos. En esos casos, un diagrama de influencia más compacto puede ser una buena alternativa. Los diagramas de influencia se enfocan en los objetivos, las entradas y las decisiones fundamentales.
