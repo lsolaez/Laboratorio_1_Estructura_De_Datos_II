@@ -2,7 +2,7 @@
 
 ## Integrantes del grupo
 -Derek Perez
--Leonardo Solaez
--Leonardo Avendaño
+*Leonardo Solaez
++Leonardo Avendaño
 
 Cada carpeta tiene su propio readme con las especificaciones de cada punto
