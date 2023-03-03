@@ -27,4 +27,4 @@ Se entrena un arbol con la informacion actual de equipos de futbol con el fin de
 
 
 ### References
-This solution was made using a code taked from [Github pages](https://github.com/JHorcasitas/-Arboles-de-Decision-y-el-Algoritmo-ID3.git)
+This solution was made using a code taked from [JHorcasitas](https://github.com/JHorcasitas/-Arboles-de-Decision-y-el-Algoritmo-ID3.git)
